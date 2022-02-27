@@ -7,10 +7,10 @@ setup(
   description = 'Topsis analysis for a numeric csv file',   # Give a short description about your library
   author = 'Gunveer Singh Ghumman',                   # Type in your name
   author_email = 'gunveerghumman@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/SAH-UJA/topsis',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/SAH-UJA/topsis/archive/v_02.tar.gz',    # I explain this later on
+  url = 'https://github.com/Gunveersg/Topsis-Gunveer-101903650',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Gunveersg/Topsis-Gunveer-101903650/archive/v_02.tar.gz',    
   keywords = ['TOPSIS', 'Statistics'],   # Keywords that define your package best
-  install_requires=[            # I get to this in a second
+  install_requires=[            
           'pandas',
       ],
   classifiers=[
