@@ -1,3 +1,4 @@
+import setuptools
 from distutils.core import setup
 setup(
   name = 'Topsis-Gunveer-101903650',         # How you named your package folder (MyLib)
